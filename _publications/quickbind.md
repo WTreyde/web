@@ -3,7 +3,7 @@ title: "QuickBind: A Light-Weight And Interpretable Molecular Docking Model"
 collection: publications
 category: conferences
 permalink: /publication/quickbind
-date: 2024
+date: 2024-09-04
 venue: 'Proceedings of the 19th Machine Learning in Computational Biology meeting'
 paperurl: 'https://proceedings.mlr.press/v261/treyde24a.html'
 citation: 'Treyde, Wojtek. (2024). &quot;QuickBind: A Light-Weight And Interpretable

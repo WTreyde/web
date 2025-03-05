@@ -3,7 +3,7 @@ title: "Bond dissociation energies of X–H bonds in proteins"
 collection: publications
 category: manuscripts
 permalink: /publication/bdes
-date: 2022
+date: 2022-12-01
 venue: 'RSC Advances'
 paperurl: 'https://pubs.rsc.org/en/content/articlelanding/2022/RA/D2RA04002F'
 citation: 'Treyde, Wojtek. (2022). &quot;Bond dissociation energies of X–H bonds in proteins.&quot; <i>RSC Advances</i>. 12(34557).'

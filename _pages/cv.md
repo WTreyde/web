@@ -11,54 +11,32 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* DPhil in Organic Chemistry, University of Oxford, 2026 (expected)
+* M.Sc. in Molecular Systems Engineering, [Max Planck School Matter to Life](https://mattertolife.maxplanckschools.org/home), 2022
+* B.Sc. in Chemistry, University of Heidelberg, 2020
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2024-present: Junior Demonstrator
+  * Department of Chemistry, University of Oxford
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2024-present: Quantum Chemistry Tutor
+  * Department of Chemistry, University of Oxford
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Summer 2023: Core Infrastructure Intern
+  * Schrödinger, Inc., Mannheim, Germany
+
+* Summer 2020: Research Assistant
+  * BASF SE, Ludwigshafen, Germany
+
+* 2019-2020: Lab Demonstrator
+  * BASF SE, Ludwigshafen, Germany
+
+* Summer 2018: Research Assistant
+  * Zschimmer & Schwarz Chemie, Lahnstein, Germany
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams

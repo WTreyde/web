@@ -13,7 +13,7 @@ title                    : "Wojtek Treyde"
 title_separator          : "-"
 name                     : &name "Wojtek Treyde"
 description              : &description "Some info about me"
-url                      : https://wtreyde.github.io
+url                      : https://wtreyde.github.io/web
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/WTreyde/web"
 
@@ -67,7 +67,7 @@ comments:
     colorscheme          : "dark" # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages" # "master", "gh-pages"
+  branch                 : "master" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"

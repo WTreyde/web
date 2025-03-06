@@ -9,14 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+## Education
 * DPhil in Organic Chemistry, University of Oxford, 2026 (expected)
 * M.Sc. in Molecular Systems Engineering, [Max Planck School Matter to Life](https://mattertolife.maxplanckschools.org/home), 2022
 * B.Sc. in Chemistry, University of Heidelberg, 2020
 
-Work experience
-======
+## Work experience
 * 2024-present: Junior Demonstrator
   * Department of Chemistry, University of Oxford
 
@@ -35,8 +33,7 @@ Work experience
 * Summer 2018: Research Assistant
   * Zschimmer & Schwarz Chemie, Lahnstein, Germany
 
-Publications
-======
+## Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>

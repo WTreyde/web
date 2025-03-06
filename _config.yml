@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : 
+title                    : "Wojtek Treyde"
 title_separator          : "-"
 name                     : &name "Wojtek Treyde"
 description              : &description "Some info about me"
@@ -37,9 +37,9 @@ author:
   github           : "WTreyde"
 
   # Social media
-  bluesky          : "https://bsky.app/profile/wtreyde.bsky.social"
-  linkedin         : "https://www.linkedin.com/in/wojtek-treyde-6b1628252/"
-  twitter          : "https://x.com/WTreyde"
+  bluesky          : "wtreyde.bsky.social"
+  linkedin         : "wojtek-treyde-6b1628252/"
+  twitter          : "WTreyde"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
